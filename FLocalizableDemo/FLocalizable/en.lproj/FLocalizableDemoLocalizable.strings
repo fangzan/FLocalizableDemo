@@ -1,0 +1,52 @@
+/* 
+  FLocalizableDemoLocalizable.strings
+  FLocalizableDemo
+
+  Created by AoChen on 2019/7/22.
+  Copyright © 2019 Ac. All rights reserved.
+*/
+
+/* 完成 */
+"Done" = "Done";
+/* 取消 */
+"Cancel" = "Cancel";
+/* 确定 */
+"OK" = "OK";
+/* 返回 */
+"Back" = "Back";
+/* 编辑 */
+"Edit" = "Edit";
+/* 保存 */
+"Reserve" = "Save";
+/* 复制 */
+"Copy" = "Copy";
+/* 打印 */
+"Gallery_Print" = "Print";
+/* 分享 */
+"Share" = "Share";
+/* 帮助 */
+"Help" = "help";
+/* 删除 */
+"Delete" = "Delete";
+/* 设置 */
+"User_Settings" = "Settings";
+/* 已复制到剪贴板中！ */
+"FackCal_jiantieban" = "Already copied to clipboard!";
+/* 请在系统设置中开启相机服务\n(设置>隐私>相册>开启) */
+"BB_flash_cameraP" = "please enable camera access in  Settings-Privacy-Camera-Turn on";
+/* 重命名 */
+"BUTTON_RENAME" = "Rename";
+/* 相机拍照 */
+"DL_TakePhoto" = "Take Photo";
+/* 没有任何内容 */
+"Not_content" = "No Content";
+/* 关于我们 */
+"user_About_us" = "About Us";
+/* 邮件 */
+"E_mail" = "Mail";
+/* 放弃 */
+"Book_abandon" = "Give up";
+/* 意见反馈 */
+"Help_Me&Feedback" = "Feedback";
+/* 隐私政策 */
+"Privacy_Policy" = "Privacy Policy";

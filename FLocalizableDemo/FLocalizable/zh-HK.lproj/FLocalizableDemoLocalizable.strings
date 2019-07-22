@@ -1,0 +1,52 @@
+/* 
+  FLocalizableDemoLocalizable.strings
+  FLocalizableDemo
+
+  Created by AoChen on 2019/7/22.
+  Copyright © 2019 Ac. All rights reserved.
+*/
+
+/* 完成 */
+"Done" = "完成";
+/* 取消 */
+"Cancel" = "取消";
+/* 确定 */
+"OK" = "確定";
+/* 返回 */
+"Back" = "返回";
+/* 编辑 */
+"Edit" = "編輯";
+/* 保存 */
+"Reserve" = "保存";
+/* 复制 */
+"Copy" = "復制";
+/* 打印 */
+"Gallery_Print" = "列印";
+/* 分享 */
+"Share" = "分享";
+/* 帮助 */
+"Help" = "幫助";
+/* 删除 */
+"Delete" = "删除";
+/* 设置 */
+"User_Settings" = "設定";
+/* 已复制到剪贴板中！ */
+"FackCal_jiantieban" = "已複製到剪貼簿！";
+/* 请在系统设置中开启相机服务\n(设置>隐私>相册>开启) */
+"BB_flash_CameraP" = "請在系統設置中開啟相機服務\n(設置>隱私>相機>開啟)";
+/* 重命名 */
+"BUTTON_RENAME" = "重命名";
+/* 相机拍照 */
+"DL_TakePhoto" = "拍照";
+/* 没有任何内容 */
+"Not_content" = "無內容";
+/* 关于我们 */
+"user_About_us" = "關於我們";
+/* 邮件 */
+"Email" = "郵件";
+/* 放弃 */
+"Book.abandon" = "放棄";
+/* 意见反馈 */
+"Help_Me&Feedback" = "意見反饋";
+/* 隐私政策 */
+"Privacy_Policy" = "隱私政策";
